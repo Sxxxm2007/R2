@@ -12,7 +12,7 @@ Un script en Python que se conecta a la API de Steam para analizar tu biblioteca
 
 \- Calcula el porcentaje exacto de trofeos desbloqueados por jueggo.
 
-\- Filtra y muestra solo los juegos que ya pasaron el 70% de progreso.
+\- Filtra y muestra solo los juegos que ya pasaron el tal % de progreso.
 
 \- Imprime los nombres internos de los logros que te faltan.
 
